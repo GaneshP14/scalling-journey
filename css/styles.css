@@ -1,0 +1,146 @@
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.h{
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin-left: 10px;
+}
+.container-fluid{
+  padding:2% 15% ;
+}
+#x{
+  margin-bottom:1%;
+}
+#y{
+  margin-left: 10px;
+}
+#b{
+  padding-bottom:0 0 2rem;
+}
+#a{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  Font-weight:bold;
+}
+.nav-item{
+  padding:0 10px;
+}
+.nav-link{
+  font-size:1.2rem;
+}
+.button{
+  margin-left: 1% ;
+}
+.title-img{
+  width: 15%;
+  transform:rotate(15deg);
+  margin-bottom: 30px;
+  right: 30%;
+  position: absolute;
+}
+#features{
+padding: 7% 15% ;
+background-color: #ffff;
+position:relative;
+}
+.feature-1{
+  text-align: center;
+padding:5%;
+}
+h3{
+font-family: 'Montserrat';
+font-weight: bold;
+}
+p{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+background-color:#ef8172;
+color: #ffff;
+
+}
+.head{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+width: 20%;
+border-radius: 100%;
+margin: 20px;
+ }
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom:3%;
+}
+#g{
+  font-weight:bold;
+  font-size: 1rem;
+}
+.testimonial-text{
+  font-weight: bold;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  padding: 60px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Montserrat";
+}
+.pricing-column{
+  padding: 2% 3%;
+}
+.btn-block{
+  width: 100%;
+}
+@media (max-width:1028px) {
+  .title-img{
+    position: static;
+    transform: rotate(0);
+
+  }
+  #title{
+  text-align: center;
+  }
+  h1{
+    font-size: 30px;
+  }
+}
+#cta{
+  background-color: #ff4c68;
+  color: #ffff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-heading{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+.fds{
+  margin: 2% 1%;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.social{
+  margin: 20px 10px;
+}
